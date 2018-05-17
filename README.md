@@ -4,7 +4,7 @@ Assorted articles
 
 ## License
 
-Copyright (c) 2018 issues2markdown Authors.
+Copyright (c) 2018 Raül Pérez.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
