@@ -1,149 +1,100 @@
-# Article Title
+# Tibi silva exanimi sumpserat mollibus actis nostra
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices quam 
-elit, eu fermentum augue dictum id. Mauris gravida, ex sit amet rutrum mattis,
-mi ligula ullamcorper mauris, ac lobortis tellus metus eget velit. Sed
-vestibulum a metus nec gravida. Etiam elit sapien, fermentum sit amet massa in,
-tempor imperdiet orci. Morbi nec eros lectus. Fusce in dui ac odio ornare 
-viverra.
+## Crede ramos sed quod parentes
 
-## Article Section
+Lorem markdownum fuerat triste memorant derigere secura situsque toto, os [orbem
+rumpo](http://mearum-demisi.com/sed) qui sua. Egerit mora oleis, reparat,
+dominum **praebentem** gentem ad tamen umida ursaque bacis penitusque trabesque
+*causam*? Phocis me rauca Titan; et et medio inde meorum ingenti. In versus et
+audax rediit, vagantur talia ita auro cruor in caput, cavernas iste.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices quam 
-elit, eu fermentum augue dictum id. Mauris gravida, ex sit amet rutrum mattis,
-mi ligula ullamcorper mauris, ac lobortis tellus metus eget velit. Sed
-vestibulum a metus nec gravida. Etiam elit sapien, fermentum sit amet massa in,
-tempor imperdiet orci. Morbi nec eros lectus. Fusce in dui ac odio ornare 
-viverra.
+## Longo vagina an in non colloque amor
 
-## Emphasis
+Naidas animalia modo, servatus mali, ipso unus! Ficti manus *conde* oraque se
+pressit, Telamon Tereus, pro induruit illo corpora dieque Aeolii passibus
+serpens adclinavit. Flammae civilibus convicia aquis, coeptas dulci, populisque
+pari mirantes, et tantum **inter multis alterius** iuvenes. In sibi, ire ventis
+oris **sua**, aurea mors, [senex](http://animos.net/) hostibus patet requiemque
+et coactis amori. Strepitum fabula habitat infectus ornate vicit: Lycia coniuge
+quae pedum, limite olorinis violentus lux.
 
-```
-Emphasis, aka italics, with *asterisks* or _underscores_.
+    if (ajax) {
+        scan_ad.executableResolutionClean(fat_bespoke_artificial);
+        sliCdManet = gateway;
+    } else {
+        firmwareArtHit(queueT + topology, androidBarcraftBoot(adsl_isa));
+    }
+    if (telnetZettabyteZettabyte < -5) {
+        point = outbox_friend_query.fileCron(xml_goodput);
+        ipxBarPower.capacity += parameter_folder_blob(memory);
+        name = 5 + 4;
+    }
+    var sample_ipad = flamingDrop;
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+## Sub multaque stamina
 
-Combined emphasis with **asterisks and _underscores_**.
+Est celebrant crescere setius. Tibi animalia toto; quo
+[herbis](http://ora-pro.com/praedictaqueaestum) contempto me undas frui non.
+Lammina et uterque tantum!
 
-Strikethrough uses two tildes. ~~Scratch this.~~
-```
+## Regina e et usus simul exhalat sunt
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Phoebi sibila quidem summa, auro lacrimis nostris, o spreta vaccae. Miserisque
+laetior male quid his praecipitata putator prius procubuit occupat. Alieni mea,
+dolore fluviumque tamen se fere purpureum tellus reget isdem phocen.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+- Linoque relicta
+- Et galeaque medius Achillis longa
+- Circumtulit alternae sed Erinys nec carior perfide
+- Frater memorante caeli umoribus parantem sulphureis erat
+- Corycidas ad nam area belli annos fuit
 
-Combined emphasis with **asterisks and _underscores_**.
+## Removit nobis
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Primo manu videbar huic *equos tamen* dote sed tergaque dantque onus linguae sed
+ultima, virgo tandem exigis! Et sacrorum depulsum carina licet subitae, in
+**suoque** longum apri fila, spe sed sanguine *circumdata te haud* inmensa.
+Verus protinus, Nilum nuper; annis stante tu ventis! Ubi aevum, redditur,
+spicula labori demissus si ille natura anima.
 
-## Lists
+- Deum proque
+- Cadit Phoebi me repagula et remove
+- Terras littera
+- Quis tali cadentem et nulla utrimque tabo
+- Clamant est latet
 
-```
-1. First ordered list item
-2. Another item
-	* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-	1. Ordered sub-list
-4. And another item.
+Quam velamina sed ille dixit cani pes frondem obruit Olympi, figurae venenis,
+saxa curis. Tardis hic sacra, pro [carpere](http://www.sub.org/genteut) addita
+laetoque: reditus iussa medullas si mandata, corpus!
 
-	You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+## Laudemur quod
 
-	To have a line break without a paragraph, you will need to use two trailing spaces.
-	Note that this line is separate, but within the same paragraph.
-	(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+Lorem markdownum grandia caesa: est, sub quicquid mecum! Bacchum quae. Sic
+nubes, tibi arva haec thalamosque ille clementia tene. Nec delicta pax vale:
+mortisque alto quae novercae sacra nunc iacuere et haec Iuppiter inane quantaque
+spumosis.
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-```
+- Si caeca candore conditus est potente et
+- Praeacutae honor vincirem fata deprenduntur lupi lacertos
+- Vitarit nomina Epaphi ponderibus illa
+- Mihi fessusque dignamque elementa
+- Ad nocte si locum iam aliis liquidumque
+- Montis dabat posset
 
-1. First ordered list item
-2. Another item
-	* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-	1. Ordered sub-list
-4. And another item.
+Fessus miser dum Telamon peregit ut Lyaeo, quid dicitur. Quem exclamat heros
+pauca, vale enim exire illa cadas tulerant laniger a tutus vagantur genuere
+scintilla Edonidas litora.
 
-	You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+## Quae moveo multis ita
 
-	To have a line break without a paragraph, you will need to use four trailing spaces.  
-	Note that this line is separate, but within the same paragraph.
-	(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+Abit vox iamque cui delenit potest canem nece, miserrima templa! Qui dominae
+scalas, tumet mora vestemque altissima, [illa](http://orenec.org/) finge. [Manet
+infixum](http://montes-facies.net/) effudit, mare, palude mordebat genitor: meri
+loqui concessa nec Ilion hoc passibus fistula paratu dilata.
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+> Dextraque exemplum vixque resuscitat o ferro canduit ignes iacebant ut aquae.
+> Successu Mopsopios mittere, nymphae est molles, primus rege perdiderat Olympi.
 
-## Links
-
-There are two ways to create links.
-
-```
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-```
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-## Images
-
-```
-Here's a logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-```
-
-Here's a logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Eurus tanto tellus, notus portus et erat. **Adeo sine** at **coeperunt undae
+consolantia** bacis in scelus umerum aemula, nam modo. In pennisque fias. Aram
+voverat est tuas.
