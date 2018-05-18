@@ -1,4 +1,5 @@
 ---
 lang: "en"
 title: "Article Skeleton"
+css: "css/styles.css"
 ...
