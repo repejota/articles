@@ -22,11 +22,12 @@ html: 		build
 html:		## Build standalone (one file) HTML format
 	@echo "Standalone HTML version"
 	@mkdir -p ${DIST_DIR}/html/
+	@cp -R ../templates/html/assets/* ${DIST_DIR}/html/
 	@pandoc --verbose \
 		--from markdown \
 		--to html \
 		--standalone \
-		--data-dir ../data \
+		--template ../templates/html/template.html \
 		--output ${DIST_DIR}/html/${DESTINATION}.html \
 		${SOURCE}.md metadata.yaml
 	@echo ${DIST_DIR}/html/${DESTINATION}.html

@@ -39,7 +39,7 @@ Lammina et uterque tantum!
 
 ## Regina e et usus simul exhalat sunt
 
-Phoebi sibila quidem summa, auro lacrimis nostris, o spreta vaccae. Miserisque
+Phoebi sibila quidem summa, auro lacrimis nostris, o spreta vaccae.  Miserisque
 laetior male quid his praecipitata putator prius procubuit occupat. Alieni mea,
 dolore fluviumque tamen se fere purpureum tellus reget isdem phocen.
 
@@ -88,7 +88,8 @@ scintilla Edonidas litora.
 ## Quae moveo multis ita
 
 Abit vox iamque cui delenit potest canem nece, miserrima templa! Qui dominae
-scalas, tumet mora vestemque altissima, [illa](http://orenec.org/) finge. [Manet
+scalas, tumet mora vestemque altissima, [illa](http://orenec.org/) finge.  
+[Manet
 infixum](http://montes-facies.net/) effudit, mare, palude mordebat genitor: meri
 loqui concessa nec Ilion hoc passibus fistula paratu dilata.
 
@@ -96,5 +97,5 @@ loqui concessa nec Ilion hoc passibus fistula paratu dilata.
 > Successu Mopsopios mittere, nymphae est molles, primus rege perdiderat Olympi.
 
 Eurus tanto tellus, notus portus et erat. **Adeo sine** at **coeperunt undae
-consolantia** bacis in scelus umerum aemula, nam modo. In pennisque fias. Aram
+consolantia** bacis in scelus umerum aemula, nam modo. In pennisque fias.  Aram
 voverat est tuas.
