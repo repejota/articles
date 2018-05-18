@@ -7,7 +7,7 @@ vestibulum a metus nec gravida. Etiam elit sapien, fermentum sit amet massa in,
 tempor imperdiet orci. Morbi nec eros lectus. Fusce in dui ac odio ornare 
 viverra.
 
-## Article Section 1
+## Article Section
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices quam 
 elit, eu fermentum augue dictum id. Mauris gravida, ex sit amet rutrum mattis,
@@ -16,7 +16,7 @@ vestibulum a metus nec gravida. Etiam elit sapien, fermentum sit amet massa in,
 tempor imperdiet orci. Morbi nec eros lectus. Fusce in dui ac odio ornare 
 viverra.
 
-## Emphasis
+## Emphasis
 
 ```
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -74,7 +74,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-## Links
+## Links
 
 There are two ways to create links.
 
@@ -123,3 +123,27 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+
+## Images
+
+```
+Here's a logo (hover to see the title text):
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+```
+
+Here's a logo (hover to see the title text):
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
