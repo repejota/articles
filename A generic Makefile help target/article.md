@@ -1,8 +1,7 @@
-Lorem markdownum fuerat triste memorant derigere secura situsque toto, os [orbem
-rumpo](http://mearum-demisi.com/sed) qui sua. Egerit mora oleis, reparat,
-dominum **praebentem** gentem ad tamen umida ursaque bacis penitusque trabesque
-*causam*? Phocis me rauca Titan; et et medio inde meorum ingenti. In versus et
-audax rediit, vagantur talia ita auro cruor in caput, cavernas iste.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
+eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
+eu, pretium quis, sem. Nulla consequat massa quis enim.
 
 ## Outline
 
@@ -48,9 +47,10 @@ audax rediit, vagantur talia ita auro cruor in caput, cavernas iste.
 
 ## See more
 
-- https://suva.sh/posts/well-documented-makefiles/
-- http://blog.testdouble.com/posts/2017-04-17-makefile-usability-tips
-- https://www.client9.com/self-documenting-makefiles/
-- https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
-- https://gist.github.com/prwhite/8168133
-- https://biowiki.org/wiki/index.php/Makefile_Manifesto
+- [Standardising interfaces across projects with Makefiles](https://blog.trainline.eu/13439-standardizing-interfaces-across-projects-with-makefiles)
+- [Makefile Manifesto](https://biowiki.org/wiki/index.php/Makefile_Manifesto)
+- [Well documented Makefiles (available via `make help`)](https://suva.sh/posts/well-documented-makefiles/)
+- [Makefile Usability Tips](http://blog.testdouble.com/posts/2017-04-17-makefile-usability-tips)
+- [Self-Documenting Makefiles](https://www.client9.com/self-documenting-makefiles/)
+- [Self-Documented Makefile](https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html)
+- [Add a help target to a Makefile that will allow all targets to be self documenting](https://gist.github.com/prwhite/8168133)

@@ -5,7 +5,7 @@ DIST_DIR=dist
 
 # Build
 
-all:		html 
+all:		html
 all:		## Build resume in all formats
 
 prepare:
@@ -27,10 +27,11 @@ html:		## Build standalone (one file) HTML format
 		--from markdown \
 		--to html \
 		--standalone \
+		--section-divs \
+		--table-of-contents \
 		--template ../templates/html/template.html \
 		--output ${DIST_DIR}/html/${DESTINATION}.html \
 		${SOURCE}.md metadata.yaml
-	@echo ${DIST_DIR}/html/${DESTINATION}.html
 
 # Clean
 
@@ -40,9 +41,3 @@ clean:		## Delete generated intermediate files
 dist-clean: clean
 dist-clean:	## Delete generated distribution files
 	@rm -rf dist
-
-.PHONY: 	help
-help:		## Show this help ( default )
-	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
-
-.DEFAULT_GOAL := help
