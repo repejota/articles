@@ -36,8 +36,6 @@ html:		## Build standalone (one file) HTML format
 # Clean
 
 clean:		## Delete generated intermediate files
+	@echo "Clean build and dist files"
 	@rm -rf build
-
-dist-clean: clean
-dist-clean:	## Delete generated distribution files
 	@rm -rf dist
