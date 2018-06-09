@@ -1,11 +1,12 @@
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
-eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-eu, pretium quis, sem. Nulla consequat massa quis enim.
+## How do you build a project?
 
+If you are working on a software project, even it is a simple one, you problably have several components. Maybe one for the frontend, and one for the backend? Maybe one for managing data, or secrets, or deployment? 
+
+Each of this components, due to the language and tools it uses builds differently. Sometime the project needs to be started with `npm run`, or `node server.js`, or `ember server` and some other project with `bundle exec rails server`, or maybe `./bin/server`. 
+ 
 ## Outline
 
-- How to build a project?
+- How do you build a software project?
   - Multiple languages and stacks means different ways of build processes.
     - nodejs, ruby, python
     - npm, django, ruby on rails
